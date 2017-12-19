@@ -11,7 +11,7 @@ A collection of MicroSoft Office vulnerabilities that could end up remote comman
 - [CVE-2017-8759](CVE-2017-8579)
 - [CVE-2017-11182](CVE-2017-11182)
 - [CVE-2017-11826](CVE-2017-11826)
-- [Others](Others)(some other features that can directly execute command or make phishing easier)
+- [Others](Others)(some other abused features or logical vulnerabilities)
 
 # Other Commonly Used
 
