@@ -1,0 +1,9 @@
+[submodule "CVE-2018-0802/poc"]
+	path = CVE-2018-0802/poc
+	url = https://github.com/Ridter/RTF_11882_0802
+[submodule "CVE-2018-0802/poc1"]
+	path = CVE-2018-0802/poc1
+	url = https://github.com/rxwx/CVE-2018-0802
+[submodule "CVE-2018-0802/poc2"]
+	path = CVE-2018-0802/poc2
+	url = https://github.com/zldww2011/CVE-2018-0802_POC
