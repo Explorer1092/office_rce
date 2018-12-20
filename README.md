@@ -13,6 +13,8 @@ A collection of MicroSoft Office vulnerabilities that could end up remote comman
 - [CVE-2017-11826(EQNEDT32.EXE)](CVE-2017-11826)
 - [CVE-2018-0802(EQNEDT32.EXE again)](CVE-2018-0802)
 - [CVE-2018-0797(RTF UAF)](CVE-2018-0797)
+- [CVE-2018-8597(Excel)](CVE-2018-8597)
+- [CVE-2018-8628(PowerPoint)](CVE-2018-8628)
 - [Others](Others)(some other abused features or logical vulnerabilities)
 
 # Other Commonly Used
